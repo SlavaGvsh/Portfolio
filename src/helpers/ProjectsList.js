@@ -29,6 +29,8 @@ const projects = [
     gitHubLink: "https://slavagvsh.github.io/Project-baloons/",
     subtitle: "Real project",
   },
+
+  
   {
     id: 2,
     title: "Agrios-gulp",
